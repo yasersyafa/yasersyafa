@@ -1,6 +1,8 @@
 # 💫 About Me:
-<br>I'm a passionate developer who loves diving deep into **game programming** and creating immersive experiences. Whether it's exploring new game mechanics or crafting **interactive web applications**, I strive to push my skills and imagination to new heights.<br><br>- 🔭 I’m currently working on improving my **game development** and **web development** projects.<br>- 🌱 I’m constantly learning new technologies, with a focus on **JavaScript**, **Vue.js**, and **game design patterns**.<br>- ⚡ Fun fact: I’m a big fan of **pixel art games** and love creating them from scratch!<br><br>
+<br>I'm a passionate developer who loves diving deep into **game programming** and creating immersive experiences. Whether it's exploring new game mechanics or crafting **interactive web applications**, I strive to push my skills and imagination to new heights.<br><br>- 🔭 I’m currently working on improving my **game development** and **web development** projects.<br>- 🌱 I’m constantly learning new technologies, with a focus on **JavaScript**, **Vue.js**, and **game architecture patterns**.<br>- ⚡ Fun fact: I’m a big fan of **pixel art games** and love creating them from scratch!<br><br>
 
+### One of My Game: Click And Shield
+![github](https://github.com/user-attachments/assets/475f2c04-75a1-4e21-abf2-2144fcf8823b)
 
 # 🌐 Socials:
 Connect with me on social media:
